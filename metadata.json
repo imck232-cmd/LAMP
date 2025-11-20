@@ -1,0 +1,5 @@
+{
+  "name": "Ohm's Law Simulator",
+  "description": "An interactive physics simulation demonstrating Ohm's Law (V=IR) with real-time circuit visualization, dynamic data charting, and visual feedback.",
+  "requestFramePermissions": []
+}
